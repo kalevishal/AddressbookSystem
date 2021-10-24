@@ -1,0 +1,13 @@
+{
+  "addressbook":
+  {
+    "firstName": "abhishek",
+    "lastName": "lohade",
+    "address": "bhokardan",
+    "email": "abhi@gmail.com",
+    "city": "jalna",
+    "state": "mh",
+    "phone": "9730212161",
+    "zip": "431114"
+  }
+}
